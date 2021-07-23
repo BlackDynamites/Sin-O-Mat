@@ -142,17 +142,17 @@ var descriptionShowOnStart = 1;
 
 // 	1.6.2. Hauptueberschrift / 1.6.1. Main headline
 
-var descriptionHeading1 = "Die Rolle Chinas bei der Bundestagswahl 2021";
+var descriptionHeading1 = "Chinas Rolle bei der Bundestagswahl 2021";
 
 
 // 	1.6.3. Zweite Ueberschrift / 1.6.2. Second Headline
 
-var descriptionHeading2 = "Der Sin-O-Mat für die Chinapolitik der Bundestagsparteien";
+var descriptionHeading2 = "Der 'Sin-O-Mat' für die Chinapolitik der Bundestagsparteien";
 
 
 // 	1.6.4. Kurzer Text um was es bei der Wahl geht / 1.6.3. Short (descriptive) text on what's the election about
 
-var descriptionExplanation = "Am 26. September 2021 finden in Deutschland Bundestagswahlen statt. In den Wahlprogrammen der Parteien legen diese ihren Standpunkt zu verschiedenen Themenbereichen mit Chinabezug dar. Nicht alle Parteien beziehen zu allen Aspekten Stellung. Eine Nicht-Erwähnung eines Themas im Wahlprogramm wird im Sin-O-Mat mit der Farbe 'gelb' (Ich weiß nicht, egal) ausgedrückt. <br />Mit dem Sin-O-Mat können Sie Ihre eigenen Ansichten mit den Parteipositionen mit Bezug auf China vergleichen.<br />Wir erheben keinen Anspruch auf Vollständigkeit. Dies ist <u>keine Wahlempfehlung</u>, sondern ein Informationsangebot zu den Wahlen! Eine detaillierte Beschreibung der Parteipositionen finden Sie in den Wahlprogrammen der jeweiligen Parteien."; 
+var descriptionExplanation = "Am 26. September 2021 finden in Deutschland Bundestagswahlen statt. In den Wahlprogrammen der Parteien legen diese ihre Standpunkte zu verschiedenen Themen mit Chinabezug dar. <br />Mit dem 'Sin-O-Mat' können Sie Ihre eigenen Ansichten mit den entsprechenden Parteipositionen vergleichen.<br />Nicht alle Parteien beziehen zu allen Aspekten Stellung. Eine Nicht-Erwähnung eines Themas im Wahlprogramm wird im 'Sin-O-Mat' mit der Farbe 'gelb' (Ich weiß nicht, egal) ausgedrückt.<br /><br />Wir erheben keinen Anspruch auf Vollständigkeit. Dies ist <u>keine Wahlempfehlung</u>, sondern ein Informationsangebot zu den Wahlen! Eine detaillierte Beschreibung der gesamten Parteipositionen finden Sie in den Wahlprogrammen der jeweiligen Parteien."; 
 
 
 // 	--------------------------------------------------------------------
@@ -203,8 +203,8 @@ var imprintGeneral = `<p>Sinonerds e. V.<br />
 			13349 Berlin<br />
 			Deutschland</p>
 
-			<p>Vereinsregister: VR XX XXXX<br />
-			Registergericht: Amtsgericht Berlin</p>
+			<p>Vereinsregister: VR 37818 B<br />
+			Registergericht: Amtsgericht Charlottenburg</p>
 
 			<p><strong>Vertreten durch:</strong><br />
 			Vorstand: Clara Tang<br />
@@ -219,8 +219,7 @@ var imprintContact = `<p>	E-Mail: team@sinonerds.com<br />
 
 //	1.7.B.3: (optional) Umsatzsteuer-ID / (optional) VAT-ID
 
-var imprintVATid = `<p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:<br />
-			DE 999 999 999</p>`
+var imprintVATid = ``
 
 
 //	1.7.B.4: 

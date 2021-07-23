@@ -2,12 +2,12 @@
 /* BODY: Hintergrundfarbe, Schriftart, -groesse und -farbe */
 /* BODY: background color, font, size and color */
 body {
-	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
 /*	font-size:10pt; */
-	color:#000000; 
+	color:#000000;
 
 	background-color: #EFC04F;
-	/* background-image: linear-gradient(#EFC04F, #FFE08F); */ 
+	/* background-image: linear-gradient(#EFC04F, #FFE08F); */
 	/* background-attachment: fixed; */
 	}
 
@@ -15,7 +15,7 @@ body {
 /* LINK-color */
 
 a { color:#000000; text-decoration:underline;}
-a:link { color:#000000; } 
+a:link { color:#000000; }
 a:visited { color:#808080; }
 a:active { color:#FF0000; }
 a:hover { color:#FF0000; text-decoration:none; }
@@ -23,15 +23,15 @@ a:hover { color:#FF0000; text-decoration:none; }
 
 /* Statistik */
 /* Statistics */
-#keepStats { 
-	margin-top:10px; 
-	font-size:90%; 
+#keepStats {
+	margin-top:10px;
+	font-size:90%;
 	}
 
 /* Willkommensnachricht (erster DIV)
    Welcome Message (first DIV) */
 #sectionDescription > div:first-of-type {
-    padding: 5% 2%;
+    padding: 2% 2%;
     text-overflow: clip;
     overflow: auto;
     margin-top: 1.0em;
@@ -40,7 +40,7 @@ a:hover { color:#FF0000; text-decoration:none; }
 
 /* BOOTSTRAP */
 .row {
-	padding: 0.2em; 
+	padding: 0.2em;
 }
 
 /* Gestreifte Spalten in den Ergebnis-Listen
