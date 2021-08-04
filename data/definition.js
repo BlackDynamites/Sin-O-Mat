@@ -327,7 +327,7 @@ var design = ["default.css","buttons-colors-on.css", "progressbar.css"];
 
 */
 
-var addons = ["extras/addon_check_iframe_resize_same_domain.js"]
+var addons = ["extras/addon_check_iframe_resize_cross_domain.js"]
 
 
 //	2.4 Sprache / Language
